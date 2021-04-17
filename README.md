@@ -15,7 +15,7 @@ Executar o comando `npm install` compila e provém http://localhost:8080/
 Executar o comando `npm run serve` para inicializar o server
 
 
-# Intalação do Cypress
+# Instalação do Cypress
 
 Abrir outro terminal na pasta do projeto;
 
